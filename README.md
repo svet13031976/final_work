@@ -21,3 +21,5 @@ dotnet run
 Введите значения через пробел: 2 hello sun 33 world
 Пример вывода программы:
 [2, hello, sun, 33, world] -> [2, sun, 33]
+
+
